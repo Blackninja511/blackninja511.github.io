@@ -3,8 +3,9 @@ background-color: black;
 }
 
 .box {
+  border: 2px solid white
   border-style: outset;
-  radius: 1px;
+  border-radius: 50px 50px;
 }
 
 p {
