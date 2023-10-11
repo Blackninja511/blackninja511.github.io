@@ -1,8 +1,12 @@
 body {
-background-color: grey;
+background-color: black;
 }
 
 .box {
   border-style: outset;
   radius: 1px;
+}
+
+p {
+  color: white;
 }
