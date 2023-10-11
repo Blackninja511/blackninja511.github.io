@@ -3,12 +3,11 @@ background-color: black;
 }
 
 .box {
-  border: 2px solid white
-  border-style: outset;
-  border-radius: 50px 50px;
+  border: 1px;
+  border-radius: 1px;
 }
 
-p {
+p, h1 {
   background-color: lightblue;
   color: white;
 }
