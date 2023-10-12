@@ -1,24 +1,17 @@
-body {
-background-color: black;
-}
-
-.box {
-  border: 1px;
-  border-radius: 1px;
-}
-
-p {
-  background-color: lightblue;
-  color: grey;
-}
-
-h1{
-  background-color: lightblue;
-  color: grey; 
-}
-
 .smoke {
   background-color: white;
   color: black;
   font-size: 15px;
+}
+
+
+.MbInactive:hover{
+  background-color: gray;
+}
+
+.MbInactive {
+  background-color: rgb(158, 126, 126);
+    display:inline-block;
+    padding:10px 15px;
+    border-style: dashed;
 }
