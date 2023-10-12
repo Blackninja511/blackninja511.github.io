@@ -19,5 +19,6 @@ h1{
 
 .smoke {
   background-color: white;
-  color: aqua;
+  color: black;
+  font-size: 10px;
 }
