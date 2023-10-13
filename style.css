@@ -15,3 +15,9 @@
     padding:10px 15px;
     border-style: dashed;
 }
+
+.border {
+  background-color: grey ; 
+  color: white;
+  border-radius: 10px;
+}
