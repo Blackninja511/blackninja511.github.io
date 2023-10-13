@@ -17,7 +17,6 @@
 }
 
 .border {
-  background-color: grey ; 
-  color: white;
+  border-style:outset;
   border-radius: 10px;
 }
