@@ -1,7 +1,7 @@
-body {
+body, html {
   background-color: black;
   border-radius: 10px;
-  border-color: mediumaquamarine;
+  border-color: mediumseagreen;
   border-style: outset;
   min-height: 100%;
   height: 0;
