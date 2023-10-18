@@ -35,7 +35,12 @@ body, html {
   border-width: thick;
 }
 
-h1, p {
+h1{
+  color: white;
+  font-family: 'Press Start 2P';
+}
+
+p {
   color: white;
   font-family: 'Press Start 2P';
 }
